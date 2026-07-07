@@ -1,3 +1,8 @@
 fastapi[standard]
 pydantic
 sqlalchemy
+aiosqlite
+greenlet
+pwdlib[argon2]
+pyjwt
+pydantic-settings
